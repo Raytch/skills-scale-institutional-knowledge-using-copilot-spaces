@@ -129,4 +129,4 @@ Capture learnings, identify improvements, and track action items to make the nex
 Refer to the relevant phase documentation above. If you can't find what you need or want to contribute an improvement:
 - Reach out to your Project Manager or Product Lead
 - Open an issue in the repository to suggest updates or clarifications
-- See the issue template for [adding content to process docs](./.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml)
+- See the issue template for [adding content to process docs](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml)
